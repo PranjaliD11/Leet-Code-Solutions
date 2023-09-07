@@ -2,7 +2,7 @@
 
 Solution of questions from 30 Days of Pandas
 | Title  |Solution| Difficulty|
-| ------------- | ------------- |-------------|
+| ---------------------------------------------| ------------- |-------------|
 |[Big Countries](https://leetcode.com/problems/big-countries/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/BigCountries.py)|Easy|
 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/Recyclable%20and%20Low%20Fat%20Products.py)| Easy|
 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/Customers%20Who%20Never%20Order.py) |Easy|
@@ -20,4 +20,4 @@ Solution of questions from 30 Days of Pandas
 |[Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/RearrangeProductsTable.py)|Easy|
 |[The Number of Rich Customers](https://leetcode.com/problems/the-number-of-rich-customers/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/TheNumberOfRichCustomers.py)|Easy|
 |[Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/ImmediateFoodDelivery.py)|Easy|
-|[Count Salary Categories](https://leetcode.com/problems/count-salary-categories/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/CountSalaryCategories.py|Medium|
+|[Count Salary Categories](https://leetcode.com/problems/count-salary-categories/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/CountSalaryCategories.py)|Medium|
