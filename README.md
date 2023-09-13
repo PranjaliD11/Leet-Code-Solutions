@@ -26,7 +26,7 @@ Solution of questions from 30 Days of Pandas
 |[Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/game-play-analysis-i/description/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/UniqueSubjectsTaught.py)|Easy|
 |[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/ClassesMoreThan5Students.py)|Easy|
 |[Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/CustomerPlacingTheLargestorder.py)|Easy|
-|[Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)|[Solution](xhttps://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/GroupSoldProductsBytheDate.py)|Easy|
+|[Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/GroupSoldProductsBytheDate.py)|Easy|
 |[Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/DailyLeadsandPartners.py)|Easy|
 |[Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)|[Solution](ActorsandDirectors.py)|Easy|
 |[Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)|[Solution](ReplaceEmpIdwithUniqueId.py)|Easy|
