@@ -21,3 +21,15 @@ Solution of questions from 30 Days of Pandas
 |[The Number of Rich Customers](https://leetcode.com/problems/the-number-of-rich-customers/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/TheNumberOfRichCustomers.py)|Easy|
 |[Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/ImmediateFoodDelivery.py)|Easy|
 |[Count Salary Categories](https://leetcode.com/problems/count-salary-categories/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/CountSalaryCategories.py)|Medium|
+|[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/FindTotalTimeSpentbyEachEmp.py)|Easy|
+|[Game Play Analysis 1](https://leetcode.com/problems/game-play-analysis-i/description/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/GamePlay.py)|Easy|
+|[Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/game-play-analysis-i/description/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/UniqueSubjectsTaught.py)|Easy|
+|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/ClassesMoreThan5Students.py)|Easy|
+|[Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/CustomerPlacingTheLargestorder.py)|Easy|
+|[Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)|[Solution](xhttps://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/GroupSoldProductsBytheDate.py)|Easy|
+|[Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)|[Solution](https://github.com/PranjaliD11/Leet-Code-Solutions/blob/main/DailyLeadsandPartners.py)|Easy|
+|[Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)|[Solution](ActorsandDirectors.py)|Easy|
+|[Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)|[Solution](ReplaceEmpIdwithUniqueId.py)|Easy|
+|[Students and Examinations](https://leetcode.com/problems/students-and-examinations)|[Solution](StudentsAndExaminations.py)|Easy|
+|[Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)|[Solution](Mangerswith5directreport.py)|Medium|
+|[Sales Person](https://leetcode.com/problems/sales-person/)|[Solution](SalesPerson.py)|Easy|
